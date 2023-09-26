@@ -1,0 +1,7 @@
+name: override-environment
+description: allows you to override the environment-hook
+author: https://github.com/willbtlr 
+requirements: []
+configuration:
+  properties: {}
+  additionalProperties: false
